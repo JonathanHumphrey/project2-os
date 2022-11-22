@@ -1,0 +1,39 @@
+----------------------------------------------- ROUND 1
+DEALER JOINS
+PLAYER 1 JOINS
+PLAYER 2 JOINS
+PLAYER 3 JOINS
+PLAYER 4 JOINS
+----------------------------- DEALER 0
+Dealer Shuffles
+Dealer picked: 13
+Dealer picked: 13
+Dealer picked: 7
+Dealer picked: 11
+----------------------------- PLAYER 1
+Player 1: Hand - 13
+Player 1: Draws - 5
+Player 1: Hand - 13, 5
+Player 1: discards - 5 at random
+----------------------------- PLAYER 2
+Player 2: Hand - 13
+Player 2: Draws - 5
+Player 2: Hand - 13, 5
+Player 2: discards - 5 at random
+----------------------------- PLAYER 3
+Player 3: Hand - 7
+Player 3: Draws - 6
+Player 3: Hand - 7, 6
+Player 3: discards - 6 at random
+----------------------------- PLAYER 4
+Player 4: Hand - 11
+Player 4: Draws - 13
+Player 4: Hand - 11, 13
+Match Found: Player 4 matched with Player 2's - 13
+----------------------------------------------- ROUND 2
+DEALER JOINS
+PLAYER 1 JOINS
+PLAYER 2 JOINS
+PLAYER 3 JOINS
+PLAYER 4 JOINS
+----------------------------- DEALER 0
